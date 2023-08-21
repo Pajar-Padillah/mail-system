@@ -1,0 +1,58 @@
+.wrapper-l{
+    max-width: 450px;
+    min-height: 300px;
+    /*margin: 80px auto;
+    padding: 40px 30px 30px 30px;*/
+    background-color: white;
+    text-align: right;
+    border: 1px solid;
+    border-color: grey;
+    border-radius: 15px;
+    margin: 80px auto;
+    padding: 30px 20px;
+
+    /*box-shadow: 13px 13px 20px #cbced1, -13px -13px 20px #fff;*/
+
+
+}
+
+.login-text {
+    color: #111;
+    font-weight: 500;
+    font-size: 2rem;
+    text-align: center;
+    text-transform: capitalize;
+    display: block  ;
+     margin-bottom: 50px ;
+
+
+}
+.login-gambar {
+     text-align: center;
+   display: block  ;
+}
+.s{
+     background-color:#F8F9FA; 
+
+}
+.btn-login{
+
+
+    display: inline-block   ;
+    width: 40%;
+    text-align: center;
+    border: none;
+    background: green;
+    outline: none;
+    border-radius: 15px;
+    color: #FFF;
+    cursor: pointer;
+    transition: .3s;
+    margin-top: 50px;
+    
+
+}
+
+.tebal{
+    font-weight: bold;
+}
